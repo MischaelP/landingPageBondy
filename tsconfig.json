@@ -1,9 +1,12 @@
 {
     "compilerOptions": {
-        "outDir": "./script"
+        "target": "ES2015",
+        "module": "commonjs",
+        "outDir": "./script",
+        "rootDir": "./",
+        "esModuleInterop": true,
+        "resolveJsonModule": true
 
     },
-    "files": [
-        "./script/app.ts"
-    ]
+    
 }
