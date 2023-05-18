@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "outDir": "./script"
+
+    },
+    "files": [
+        "./script/app.ts"
+    ]
+}
