@@ -1,0 +1,29 @@
+{
+  "name": "landingpagebondy",
+  "version": "1.0.0",
+  "description": "Landing page de Bondy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MischaelP/landingPageBondy.git"
+  },
+  "keywords": [
+    "Bondy",
+    "student"
+  ],
+  "author": "MP",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MischaelP/landingPageBondy/issues"
+  },
+  "homepage": "https://github.com/MischaelP/landingPageBondy#readme",
+  "dependencies": {
+    "normalize.css": "^8.0.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}
